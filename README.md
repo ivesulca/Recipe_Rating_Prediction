@@ -1,6 +1,6 @@
 # Machine Learning Lab Final Project
 
--Group: Grace Hoppers
+- Group: Grace Hoppers
 - Students: 
   - Akansha Shrivastava
   - Ivette Sulca
